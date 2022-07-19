@@ -1,0 +1,43 @@
+@media (max-width: 1600px) {
+
+  .container {
+    max-width: 1170px;
+  }
+    
+  .reactweb_hero .name h3 {
+    font-size: 60px;
+  }
+
+  .reactweb_hero .job {
+    margin-bottom: 23px;
+  }
+
+  .reactweb_header {
+    padding: 15px 0;
+  }
+
+  .reactweb_header .menu ul li {
+    margin-right: 30px;
+  }
+
+  .reactweb_hero .hello h3 {
+    font-size: 25px;
+  }
+  .reactweb_hero .name {
+    margin-bottom: 13px;
+  }
+
+  .reactweb_hero .job p {
+    font-size: 19px;
+  }
+  .reactweb_hero .text {
+    margin-bottom: 30px;
+  }
+
+  body {
+    font-size: 16px;
+  }
+  .reactweb_hero .text p {
+    font-size: 16px;
+  }
+}
