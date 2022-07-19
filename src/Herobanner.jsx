@@ -16,13 +16,13 @@ const Herobanner = () => {
                   <h3 className="orangeText">Hello, I'm</h3>
                 </div>
                 <div className="name">
-                  <h3>James Smith</h3>
+                  <h3>Prince Kr Gupta</h3>
                 </div>
                 <div className="job">
-                  <p>A <span className="greenText">Creative Designer</span> From <span className="purpleText">New York</span></p>
+                  <p>A <span className="greenText">Creative Designer</span> From <span className="purpleText">New Delhi</span></p>
                 </div>
                 <div className="text">
-                  <p>I'm creative designer based in New York, and I'm very passionate and dedicated to my work.</p>
+                  <p>I'm creative designer based in New Delhi, and I'm very passionate and dedicated to my work.</p>
                 </div>
                 <div className="button">
                   <div className="reactweb_button">
